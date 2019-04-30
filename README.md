@@ -3,7 +3,7 @@
 
 
 
-Norwegian Bokmal
+Norwegian Bokmål
 
 
 
